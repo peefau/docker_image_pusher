@@ -1,6 +1,8 @@
 # 指定架构
 --platform=linux_amd64
 nginx
+mysql:8.0
+redis:7
 rabbitmq:3.9.11-management
 elasticsearch:7.17.3
 logstash:7.17.3
