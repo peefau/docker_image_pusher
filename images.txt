@@ -1,3 +1,5 @@
+# 指定架构
+--platform=linux_amd64
 nginx
 rabbitmq:3.9.11-management
 elasticsearch:7.17.3
